@@ -100,11 +100,4 @@ flowchart LR
 * Swagger annotations provide interactive documentation via Swagger UI.
 * Role-based authorization is optional and can be added later.
 
----
-
-## Author
-
-Vrishti Singh
-vrishtisingh98@gmail.com
-
 ```
